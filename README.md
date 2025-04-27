@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou Eduardo Domingues!
 
-<!--
-**eduardonx/eduardonx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focado em me tornar um profissional de Tecnologia da Informação, com especial interesse em **Desenvolvimento de Software** e **Análise de Sistemas**.
 
-Here are some ideas to get you started:
+🔭 Atualmente estou estudando **Programação** e **Banco de Dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Aprendendo diariamente sobre:
+- Lógica de Programação
+- Python
+- SQL e Banco de Dados
+- Desenvolvimento Web (em breve!)
+
+🚀 Buscando oportunidades de estágio e projetos para ganhar experiência prática.
+
+📫 Como me encontrar:
+- Email: edumingues7@gmail.com
+
+
+
+## ⚡ Um pouco mais sobre mim:
+- Gosto de resolver problemas e aprender coisas novas todos os dias.
+- Meu objetivo é construir soluções inteligentes e fáceis de usar.
+- Acredito que **persistência supera talento**.
+
+---
+
+✨ Obrigado por visitar meu perfil!
+**
